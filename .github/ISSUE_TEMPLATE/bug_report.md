@@ -6,7 +6,7 @@ labels: bug
 asignees: nmartinyuste
 ---
 
-# Bug Template
+# Bug Report Template
 
 ## Expected Behavior
 
