@@ -30,12 +30,18 @@ Please provide any relevant information about your setup (if applies). This is i
 
 Please help provide information about the failure if this is a bug.
 
+### Environment
+
+- [ ] Development
+- [ ] Production
+- [ ] Test
+
 ### Steps to Reproduce
 
 Please provide detailed steps for reproducing the bug.
 
-1. step 1
-2. step 2
+1. Step 1
+2. Step 2
 3. See error ...
 
 ### Failure Logs
